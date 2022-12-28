@@ -15,6 +15,7 @@ different protein chains and a distance smaller than 0.3 Angstroms we compute:
 (iii) the dot product between the normal vector,the position unit vector.
 By comparing the sign of the dot product, it is possible to identify
 whether the two given atoms are indeed overlapping, i.e. steric crash). 
-This method is been implemented in SPServer (http://sbi.upf.edu/spserver/), a web server to assess the quality of protein folds and protein-protein interactions using knowledge-based potentials (also known as statistical potentials). 
+This method is been implemented in SPServer (http://sbi.upf.edu/spserver/), a web server to assess 
+the quality of protein folds and protein-protein interactions using knowledge-based potentials.
 
 
