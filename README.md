@@ -1,1 +1,1 @@
-# Protein_collision_detection
+# Protein collision detection
