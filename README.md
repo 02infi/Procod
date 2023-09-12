@@ -1,4 +1,4 @@
-# Protein collision detection
+# PRotein COllision Detection
 
 
 Identification of steric crashes in protein interfaces
