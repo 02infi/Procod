@@ -1,4 +1,4 @@
-# PRotein COllision Detection
+# PRotein COllision Detection Algorithm (PROCOD)
 
 
 Identification of steric crashes in protein interfaces
