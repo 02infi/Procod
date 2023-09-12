@@ -3,7 +3,7 @@
 
 Identification of steric crashes in protein interfaces
 
-To identify atomic clashes in protein interfaces, I have developed a method called PRODOC based on GEPOL.
+To identify atomic clashes in protein interfaces, I have developed a method called PROCOD based on GEPOL.
 GEPOL approximates the molecular surface of proteins by triangular tessellation of the atoms,
 i.e. the surface of atoms is represented by a set of triangles. On a first step, it identify
 the interface of the complex by filtering those surface regions that do not change when comparing
