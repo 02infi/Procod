@@ -23,3 +23,5 @@ This method is been implemented in SPServer (http://sbi.upf.edu/spserver/), a we
 the quality of protein folds and protein-protein interactions using knowledge-based potentials.
 
 
+References : 
+Aguirre-Plans, J., Meseguer, A., Molina-Fernandez, R. et al. SPServer: split-statistical potentials for the analysis of protein structures and protein–protein interactions. BMC Bioinformatics 22, 4 (2021). https://doi.org/10.1186/s12859-020-03770-5
